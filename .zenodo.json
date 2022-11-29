@@ -1,0 +1,26 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-5139-3543",
+            "affiliation": "Brookhaven National Laboratory",
+            "name": "Mark P. M. Dean"
+        },
+        {
+            "orcid": "0000-0003-4697-4719",
+            "affiliation": "Brookhaven National Laboratory",
+            "name": "Yao Shen"
+        }
+    ],
+
+    "title": "Emergence of Spinons in Layered Trimer Iridate Ba4Ir3O10",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1103/PhysRevLett.129.207201",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ]
+
+}
